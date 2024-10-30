@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Work\mi41\slozhnost_algoritmov\lab1_c++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Work\mi41\slozhnost_algoritmov\lab1_c++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Work\mi41\slozhnost_algoritmov\lab1_c++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
